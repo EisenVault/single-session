@@ -1,0 +1,8 @@
+<webscript>
+    <shortname>session-clear</shortname>
+    <description>To clean all active session of user if have any active session or not</description>
+    <url>/api/session/clear?userName={userName}</url>
+    <format default="html">argument</format>
+    <authentication runas="admin">none</authentication>
+    <transaction>required</transaction>
+</webscript>

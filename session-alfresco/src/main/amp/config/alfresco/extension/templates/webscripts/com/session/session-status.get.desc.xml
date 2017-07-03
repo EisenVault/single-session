@@ -1,0 +1,8 @@
+<webscript>
+    <shortname>session-status</shortname>
+    <description>To check the status of user if have any active session or not</description>
+    <url>/api/session/status?userName={userName}</url>
+    <format default="json">argument</format>
+    <authentication runas="admin">none</authentication>
+    <transaction>required</transaction>
+</webscript>

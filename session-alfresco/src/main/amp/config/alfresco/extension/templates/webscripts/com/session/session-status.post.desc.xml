@@ -1,0 +1,8 @@
+<webscript>
+    <shortname>session-status</shortname>
+    <description>To check set the status of user session after successful login</description>
+    <url>/api/session/status</url>
+    <format default="json">argument</format>
+    <authentication runas="admin">none</authentication>
+    <transaction>required</transaction>
+</webscript>

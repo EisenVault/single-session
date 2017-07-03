@@ -1,0 +1,8 @@
+add|/WEB-INF/lib/session-share-1.0-SNAPSHOT.jar
+add|/WEB-INF/classes/alfresco/web-extension/site-webscripts/org/alfresco/README.md
+add|/WEB-INF/classes/alfresco/web-extension/messages/session-share.properties
+add|/WEB-INF/classes/alfresco/web-extension/session-share-slingshot-application-context.xml
+mkdir|/WEB-INF/classes/alfresco/web-extension/site-webscripts/org/alfresco
+mkdir|/WEB-INF/classes/alfresco/web-extension/site-webscripts/org
+mkdir|/WEB-INF/classes/alfresco/web-extension/site-webscripts
+mkdir|/WEB-INF/classes/alfresco/web-extension/messages
